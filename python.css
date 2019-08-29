@@ -1,0 +1,77 @@
+body{
+    background-color:rgb(44, 92, 182)} 
+form {
+    width: 500px;
+    height: 130px;
+    display: inline;
+    position: absolute;
+    margin-left: 750px;
+    margin-right: 10px;
+    margin-top: 100px;
+    background-color: rgba(63, 53, 53, 0.788);
+    border-radius: 20px;
+}
+input{
+    margin-top: 45px;
+    margin-left: 90px;
+    font-size: 30px;
+}
+button {
+    border-radius: 10px;
+    background-color: blue;
+    font-size: 30px}
+.logo{
+    display: inline;
+    margin-top: 15px;
+    margin: 15px 0px 0px 15px;
+}
+h4{
+color: aliceblue;
+position: absolute;
+margin: 20px 10px 10px 900px;
+font-size: xx-small;
+display: inline;
+font-size: 35px;
+}
+span {
+    color: #000;
+    font-size: 40px;
+}
+div.subhead{
+    height: 120px;
+    width: 1700px;
+    margin-top: 90px;
+    margin-left:55px;
+    background-color: rgb(106, 201, 201);
+    border-radius: 20px;
+}
+div.list ul {
+    margin-top: 80px;
+    font-size: 40px;
+    float: left;
+}
+Div.subhead li{
+    margin:20px;
+    display:inline-block;
+    font-size: 40px;
+    color:white;
+}
+Div.subhead ul{
+    width: 80%;\
+    margin: auto;
+}
+Div.list {
+padding: 20px;
+margin: 40px; 
+font-size: 25px;
+color: white}
+
+div.list p{
+    text-align: center;
+    font-size: 35px;
+}
+Div.list pre{
+float: right;
+margin-right: 400px;
+font-size: 35px
+}
